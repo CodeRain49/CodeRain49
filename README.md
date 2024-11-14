@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development and art
 - 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on .....
-- 📫 How to reach me - coderain@gmail.com
+- 📫 How to reach me - coderain49@gmail.com
 - 😄 Pronouns: she/her (not serious)
 - ⚡ Fun fact: I have many cats :3
 
