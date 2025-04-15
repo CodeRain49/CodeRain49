@@ -1,6 +1,6 @@
 - 👋 CodeRain49 / VilanCat
-- 👀 I’m interested in game development and art
-- 🌱 I’m currently learning C# and Python
+- 👀 I’m interested in game development, web development and mobile development
+- 🌱 I’m currently learning C#, Python, HTML/CSS, JS
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me - coderain49@gmail.com
 - 😄 Pronouns: she/her (not serious)
